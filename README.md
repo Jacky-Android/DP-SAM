@@ -1,2 +1,2 @@
 # DP-SAM
-## The code will be open after the paper is accepted.
+## The code will be released after the paper is accepted.
